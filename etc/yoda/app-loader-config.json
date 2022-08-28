@@ -1,0 +1,11 @@
+{
+    "paths": [
+        "/opt/apps"
+    ],
+    "lightAppIds": [
+        "@yoda/battery",
+        "@yoda/system",
+        "@yoda/volume"
+
+    ]
+}

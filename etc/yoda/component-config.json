@@ -1,0 +1,8 @@
+{
+    "path": [
+        "/usr/yoda/component"
+    ],
+    "interception": {
+        "runtimeDidResumeFromSleep": []
+    }
+}
